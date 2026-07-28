@@ -1,0 +1,7 @@
+{
+  "plugins": {
+    "team-plugin/rails-tutorial-support": {
+      "enabled": true
+    }
+  }
+}
